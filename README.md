@@ -12,7 +12,7 @@ Welcome to the Discord Clone project! This project is a web application built wi
 
 ## Demo
 
-You can access the live demo of this project at https://discord-aashish.vercel.app/.
+You can access the live demo of this project at [discord-clone-ruby-two.vercel.app](https://discord-clone-ruby-two.vercel.app/).
 
 ## Features
 
